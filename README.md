@@ -22,5 +22,6 @@ This project addresses email overload, missed opportunities, and the need for re
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/JobQuickNotify.git
+   git clone https://github.com/notabhinave/JobQuickNotify.git
+
    cd JobQuickNotify
