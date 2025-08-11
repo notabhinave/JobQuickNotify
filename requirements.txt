@@ -1,0 +1,9 @@
+google-api-python-client>=2.0.0
+google-auth-oauthlib>=0.4.0
+spacy>=3.5.0
+transformers>=4.30.0
+torch>=2.0.0
+plyer>=2.0.0
+schedule>=1.1.0
+beautifulsoup4>=4.11.0
+python-dateutil>=2.8.0
